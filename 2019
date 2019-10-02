@@ -1,0 +1,17 @@
+whats-the-difference - Points: 200
+----------------------------------------
+vim -d <(xxd cattos.jpg) <(xxd kitters.jpg)
+----------------------------------------
+pico
+
+C
+
+T
+
+F{
+
+th3y
+
+========================================
+Solution:
+picoCTF{th3yr3_a5_d1ff3r3nt_4s_bu773r_4nd_j311y_aslkjfdsalkfslkflkjdsfdszmz10548}
