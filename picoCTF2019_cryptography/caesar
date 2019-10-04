@@ -1,0 +1,11 @@
+caesar - Points: 100
+
+Q: Decrypt this message. You can find the ciphertext in /problems/caesar_6_238b8f4604d91ecb59cda5b4f0e66fc8 on the shell server.
+Hint: caesar cipher tutorial
+
+Enciphered Text:
+picoCTF{rgdhhxcviwtgjqxrdcdydkefyh}
+
+Deciphered Text:
+picoCTF{crossingtherubiconojovpqjs}
+

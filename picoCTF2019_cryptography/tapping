@@ -1,0 +1,12 @@
+Tapping - Points: 200
+
+Q: Theres tapping coming in from the wires. What's it saying nc 2019shell1.picoctf.com 45168
+Hint: What kind of encoding uses dashes and dots?The flag is in the format PICOCTF{}
+
+Morse Code
+
+Enciphered Message:
+.--. .. -.-. --- -.-. - ..-. { -- ----- .-. ... ...-- -.-. ----- -.. ...-- .---- ... ..-. ..- -. ...-- ....- ---.. ---.. ---.. --... .---- ----- ..... }
+
+Deciphered Message:
+PICOCTFM0RS3C0D31SFUN348887105
